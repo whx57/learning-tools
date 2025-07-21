@@ -3,7 +3,7 @@
 	url = https://github.com/wawahejun/learning-lm-rs
 [submodule "exercises/rustlings"]
 	path = exercises/rustlings
-	url = https://github.com/wawahejun/rustlings-completed-version
+	url = https://github.com/whx57/Rustlings.git
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
-	url = https://github.com/wawahejun/learning-cxx
+	url = https://github.com/whx57/learn-cxx.git

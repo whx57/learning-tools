@@ -1,0 +1,406 @@
+{
+  "exercises": [
+    {
+      "name": "variables4.rs",
+      "result": false
+    },
+    {
+      "name": "variables3.rs",
+      "result": false
+    },
+    {
+      "name": "variables5.rs",
+      "result": false
+    },
+    {
+      "name": "variables2.rs",
+      "result": false
+    },
+    {
+      "name": "variables1.rs",
+      "result": false
+    },
+    {
+      "name": "variables6.rs",
+      "result": false
+    },
+    {
+      "name": "intro2.rs",
+      "result": false
+    },
+    {
+      "name": "intro1.rs",
+      "result": false
+    },
+    {
+      "name": "threads2.rs",
+      "result": false
+    },
+    {
+      "name": "threads1.rs",
+      "result": false
+    },
+    {
+      "name": "threads3.rs",
+      "result": false
+    },
+    {
+      "name": "modules1.rs",
+      "result": false
+    },
+    {
+      "name": "modules2.rs",
+      "result": false
+    },
+    {
+      "name": "modules3.rs",
+      "result": false
+    },
+    {
+      "name": "strings2.rs",
+      "result": false
+    },
+    {
+      "name": "strings1.rs",
+      "result": false
+    },
+    {
+      "name": "strings4.rs",
+      "result": false
+    },
+    {
+      "name": "strings3.rs",
+      "result": false
+    },
+    {
+      "name": "options1.rs",
+      "result": false
+    },
+    {
+      "name": "options2.rs",
+      "result": false
+    },
+    {
+      "name": "options3.rs",
+      "result": false
+    },
+    {
+      "name": "clippy2.rs",
+      "result": false
+    },
+    {
+      "name": "clippy1.rs",
+      "result": false
+    },
+    {
+      "name": "clippy3.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types1.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types6.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types5.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types4.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types2.rs",
+      "result": false
+    },
+    {
+      "name": "primitive_types3.rs",
+      "result": false
+    },
+    {
+      "name": "hashmaps1.rs",
+      "result": false
+    },
+    {
+      "name": "hashmaps3.rs",
+      "result": false
+    },
+    {
+      "name": "hashmaps2.rs",
+      "result": false
+    },
+    {
+      "name": "iterators5.rs",
+      "result": false
+    },
+    {
+      "name": "iterators4.rs",
+      "result": false
+    },
+    {
+      "name": "iterators2.rs",
+      "result": false
+    },
+    {
+      "name": "iterators1.rs",
+      "result": false
+    },
+    {
+      "name": "iterators3.rs",
+      "result": false
+    },
+    {
+      "name": "errors4.rs",
+      "result": false
+    },
+    {
+      "name": "errors1.rs",
+      "result": false
+    },
+    {
+      "name": "errors5.rs",
+      "result": false
+    },
+    {
+      "name": "errors6.rs",
+      "result": false
+    },
+    {
+      "name": "errors2.rs",
+      "result": false
+    },
+    {
+      "name": "errors3.rs",
+      "result": false
+    },
+    {
+      "name": "lifetimes2.rs",
+      "result": false
+    },
+    {
+      "name": "lifetimes3.rs",
+      "result": false
+    },
+    {
+      "name": "lifetimes1.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics1.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics3.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics4.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics5.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics2.rs",
+      "result": false
+    },
+    {
+      "name": "move_semantics6.rs",
+      "result": false
+    },
+    {
+      "name": "structs3.rs",
+      "result": false
+    },
+    {
+      "name": "structs1.rs",
+      "result": false
+    },
+    {
+      "name": "structs2.rs",
+      "result": false
+    },
+    {
+      "name": "enums2.rs",
+      "result": false
+    },
+    {
+      "name": "enums3.rs",
+      "result": false
+    },
+    {
+      "name": "enums1.rs",
+      "result": false
+    },
+    {
+      "name": "if3.rs",
+      "result": false
+    },
+    {
+      "name": "if2.rs",
+      "result": false
+    },
+    {
+      "name": "if1.rs",
+      "result": false
+    },
+    {
+      "name": "generics2.rs",
+      "result": false
+    },
+    {
+      "name": "generics1.rs",
+      "result": false
+    },
+    {
+      "name": "using_as.rs",
+      "result": false
+    },
+    {
+      "name": "from_into.rs",
+      "result": false
+    },
+    {
+      "name": "as_ref_mut.rs",
+      "result": false
+    },
+    {
+      "name": "from_str.rs",
+      "result": false
+    },
+    {
+      "name": "try_from_into.rs",
+      "result": false
+    },
+    {
+      "name": "vecs2.rs",
+      "result": false
+    },
+    {
+      "name": "vecs1.rs",
+      "result": false
+    },
+    {
+      "name": "cow1.rs",
+      "result": false
+    },
+    {
+      "name": "arc1.rs",
+      "result": false
+    },
+    {
+      "name": "box1.rs",
+      "result": false
+    },
+    {
+      "name": "rc1.rs",
+      "result": false
+    },
+    {
+      "name": "functions3.rs",
+      "result": false
+    },
+    {
+      "name": "functions1.rs",
+      "result": false
+    },
+    {
+      "name": "functions4.rs",
+      "result": false
+    },
+    {
+      "name": "functions5.rs",
+      "result": false
+    },
+    {
+      "name": "functions2.rs",
+      "result": false
+    },
+    {
+      "name": "cow1.rs",
+      "result": false
+    },
+    {
+      "name": "arc1.rs",
+      "result": false
+    },
+    {
+      "name": "box1.rs",
+      "result": false
+    },
+    {
+      "name": "rc1.rs",
+      "result": false
+    },
+    {
+      "name": "quiz3.rs",
+      "result": false
+    },
+    {
+      "name": "quiz1.rs",
+      "result": false
+    },
+    {
+      "name": "quiz2.rs",
+      "result": false
+    },
+    {
+      "name": "tests3.rs",
+      "result": false
+    },
+    {
+      "name": "tests1.rs",
+      "result": false
+    },
+    {
+      "name": "tests2.rs",
+      "result": false
+    },
+    {
+      "name": "traits5.rs",
+      "result": false
+    },
+    {
+      "name": "traits4.rs",
+      "result": false
+    },
+    {
+      "name": "traits1.rs",
+      "result": false
+    },
+    {
+      "name": "traits2.rs",
+      "result": false
+    },
+    {
+      "name": "traits3.rs",
+      "result": false
+    },
+    {
+      "name": "macros2.rs",
+      "result": false
+    },
+    {
+      "name": "macros1.rs",
+      "result": false
+    },
+    {
+      "name": "macros3.rs",
+      "result": false
+    },
+    {
+      "name": "macros4.rs",
+      "result": false
+    }
+  ],
+  "statistics": {
+    "total_exercations": 99,
+    "total_succeeds": 0,
+    "total_failures": 99,
+    "total_time": 10
+  }
+}
