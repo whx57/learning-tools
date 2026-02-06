@@ -6,4 +6,7 @@
 	url = https://github.com/whx57/Rustlings.git
 [submodule "exercises/learning-cxx"]
 	path = exercises/learning-cxx
-	url = https://github.com/whx57/learn-cxx.git
+	url = https://github.com/InfiniTensor/learning-cxx
+[submodule "exercises/learning-cuda"]
+	path = exercises/learning-cuda
+	url = https://ghfast.top/https://github.com/whx57/Learning-CUDA.git
